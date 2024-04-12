@@ -10,4 +10,3 @@ alias gl='git log'
 alias gs='git status'
 alias gd='git diff'
 alias gm='git commit -m'
-
